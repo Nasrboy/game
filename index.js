@@ -23,9 +23,9 @@ function checkNumber(x,y){
             }
         }
     }else if(y < x){
-        window.alert(`The number is greater than ${y} 😂🤣😂 TRY AGAIN`)
+        window.alert(`The number was greater than ${y} 😂🤣😂 TRY AGAIN`)
     }else{
-        window.alert(`The number is less than ${y} 🤣🤣🤣 TRY AGAIN`)
+        window.alert(`The number was less than ${y} 🤣🤣🤣 TRY AGAIN`)
     }
 }
 while(true){ 
